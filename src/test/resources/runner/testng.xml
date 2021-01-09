@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite
+	name="Cucumber (BDD) - PayPal - API Automation Suite using Rest Assured API">
+
+	<test name="RunCuke - Java file to execute Features">
+		<classes>
+			<class name="com.learning.cuke.runner.RunCuke" />
+		</classes>
+	</test> <!-- Test -->
+
+
+
+</suite> <!-- Suite -->
